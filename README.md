@@ -1,8 +1,12 @@
-# React + Vite
+## Testimonials React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple React application that displays a demo website or portfolio created using React Components
 
-Currently, two official plugins are available:
+## Demo
+[Live Demo...](https://react-components-pro.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Contact
+For questions or suggestions, feel free to contact:
+
+A.Sathish Kumar [sathishkumarannadurai12@gmail.com](mailto:sathishkumarannadurai12gmail.com)
+GitHub: [A-SathishKumar] (https://github.com/A-SathishKumar)
