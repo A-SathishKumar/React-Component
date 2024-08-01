@@ -1,0 +1,22 @@
+.testimonials-container {
+    text-align: center;
+    /* /margin-top: 50px; */
+    margin: 50px 0 60px 120px;
+    padding: 20px;
+  }
+  .testimonials img{
+    margin-top: 50px;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+  }
+  .testimonials p{
+    padding: 10px;
+  }
+  
+  .testimonials {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
